@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ff441940feade9499b50777a9498ce0
+timeCreated: 1464560160
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SpeakerOn: {fileID: 21300000, guid: be9da503602db8e4d8a336bb09258cd2, type: 3}
+  - SpeakerOff: {fileID: 21300000, guid: e9045b6eaab94594eb8d24d11d36e2d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
